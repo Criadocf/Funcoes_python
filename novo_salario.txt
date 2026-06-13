@@ -1,0 +1,4 @@
+o salário de hose é 1500
+o salário de frrnando é 3000
+o salário de genriqur é 700
+o salário de diego é 9000
